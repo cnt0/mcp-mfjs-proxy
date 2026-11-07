@@ -1,0 +1,3 @@
+[submodule "walle"]
+	path = walle
+	url = git@github.com:MoonshotAI/walle.git
